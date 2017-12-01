@@ -14,4 +14,6 @@ def gugudan(a):
 
 gugudan(input("몇 단 출력하셈?"))
 
+#오대단한데?
+
 
